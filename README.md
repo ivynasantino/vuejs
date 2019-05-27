@@ -8,4 +8,7 @@
     * [Dados computados](https://br.vuejs.org/v2/guide/computed.html)
     * [Interligação de classe e estilo](https://br.vuejs.org/v2/guide/class-and-style.html)
 2. Usando condicionais e redenrização de listas:
-    * Em breve...
+    * Renderização condicional
+    * Seleção múltipla
+    * Renderizando lista
+    * Itenrando em objetos
